@@ -1,36 +1,48 @@
-🧠 AI Study Planner
+# 🧠 AI Study Planner
 
-🚀 About the Project
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=AI%20Study%20Planner&fontSize=40&fontColor=ffffff" />
+</p>
 
-An AI-powered Study Planner that generates personalized learning schedules based on your topic, available time, and skill level. It helps students learn smarter with structured daily plans, optimized study flow, and AI-driven guidance.
-✨ Features
-🧠 AI-generated personalized study plans
-📅 Day-wise structured schedule
-🎯 Beginner / Intermediate / Advanced levels
-⏱️ Smart time optimization
-📊 Clean and simple UI
-🔄 Dynamic plan generation
-⚙️ How It Works
-Enter:
-Topic (e.g., Machine Learning)
-Number of days
-Difficulty level
-AI processes your input 🤖
-You get:
-Daily breakdown
-Topics per day
-Practice & revision tasks
-🛠️ Tech Stack
-Python 🐍
-AI API (Gemini / OpenAI)
-Flask / Streamlit
-HTML + CSS (optional UI)
-📦 Installation
+<p align="center">
+  An AI-powered tool that generates personalized study schedules based on your topic, time, and level 🚀
+</p>
+
+---
+
+## 🚀 Features
+
+- 🧠 AI-generated study plans  
+- 📅 Day-wise schedule creation  
+- 🎯 Beginner / Intermediate / Advanced support  
+- ⏱️ Smart time-based planning  
+- 📊 Simple and clean interface  
+- 🔄 Dynamic plan generation  
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 🐍  
+- AI API (Gemini / OpenAI)  
+- Flask / Streamlit  
+- HTML & CSS (optional)
+
+---
+
+## ⚙️ How It Works
+
+1. Enter topic (e.g. Machine Learning)  
+2. Enter number of days  
+3. Choose difficulty level  
+4. AI generates structured study plan  
+5. Follow daily schedule 📚  
+
+---
+
+## 📦 Installation
+
+```bash
 git clone https://github.com/your-username/ai-study-planner.git
 cd ai-study-planner
 pip install -r requirements.txt
-▶️ Run Project
-Flask
-python app.py
-Streamlit
-streamlit run app.py
